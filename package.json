@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/UdeA-Proyectos-Ciclo-3-4/API-Android-Kotlin/issues"
   },
-  "homepage": "https://github.com/UdeA-Proyectos-Ciclo-3-4/API-Android-Kotlin#readme"
+  "homepage": "https://github.com/UdeA-Proyectos-Ciclo-3-4/API-Android-Kotlin#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "name": "api-poi",
+  "version": "1.0.0",
+  "description": "BackEnd (API): Proyecto Mision TIC, Ciclo 4 (App Turismo: POI (Point of Interes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UdeA-Proyectos-Ciclo-3-4/API-Android-Kotlin.git"
+  },
+  "keywords": [
+    "API",
+    "json-server"
+  ],
+  "author": "Equipo: Develop X, Grupo 13-14-15 (UdeA) <ydalk3@gmail.com>",
+  "license": "ISC",
+  "contributors": [
+    "David Guerrero Ceballos <davidguerreroce7@gmail.com> (https://github.com/EnTusPupilas)",
+    "Miguel Angel Rodriguez Sabogal <marodriguez2512@gmail.com> (https://github.com/CKDark44n)",
+    "Andrés Burbano <andrescomfama20@gmail.com> (https://github.com/Andres-B-Developer)",
+    "Lady Carolina Porras González <ydalk3@gmail.com> (https://github.com/ydalk)",
+    "Juan Carlos Jiménez Gutiérrez <jcjimenez29@misena.edu.co> (https://github.com/jcarlosj)"
+  ],
+  "bugs": {
+    "url": "https://github.com/UdeA-Proyectos-Ciclo-3-4/API-Android-Kotlin/issues"
+  },
+  "homepage": "https://github.com/UdeA-Proyectos-Ciclo-3-4/API-Android-Kotlin#readme"
+}

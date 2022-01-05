@@ -1,0 +1,88 @@
+{
+    "places": [
+        {
+            "name": "Salinas de Manaure",
+            "urlImage": "https://www.colombia.co/ruven-afanador-fotografo/assets/images/destinos/salinas-de-manaure/banner.jpg",
+            "information": "Es el lugar más importante de Colombia para la explotación de sal; un millón de toneladas, correspondiente al 70% de la capacidad total del país. El paisaje de este recóndito lugar está compuesto por imponentes cerros blancos de sal que se reflejan en pozos de agua.",
+            "location": "Manaure es un municipio del departamento colombiano de La Guajira, reconocido principalmente por las salinas marítimas más importantes del país. Limita al norte con el Mar Caribe, al nororiente con el municipio de Uribia; al sur con el municipio de Maicao y al occidente con el municipio de Riohacha.",
+            "temperature": 27.0,
+            "description": "Manaure nace de un pueblo nómada de indígenas y los primeros indicios de habitantes no indígenas se remontan al año 1723 aproximadamente. Desde siempre ha sido una tierra deseada por el valor que tenía la sal como medio de pago.",
+            "coordinates": {
+                "lat": 11.780148976039351,
+                "lng": -72.44871852675463
+            }
+        },
+        {
+            "name": "Santuario de Fauna y Flora los Flamencos",
+            "urlImage": "https://guajiramundo.com/wp-content/uploads/2019/10/flamencos1-1.jpg",
+            "information": "Declarado en 1992 Patrimonio Nacional y Cultural de Colombia, el santuario natural es un territorio de ciénagas, lagunas y bosque seco que custodia un delicado ecosistema compuesto de multiplicidad de aves, peces, crustáceos y plantas.  Este pequeño terreno de lagunas costeras regadas por arroyos que es una importante zona de abastecimiento para las aves que le dan su nombre: los flamencos.",
+            "location": "El santuario se localiza aproximadamente a 11° 24' Norte y a 73° 7' Oeste, en territorio del departamento de La Guajira, en jurisdicción del municipios de Riohacha.",
+            "temperature": 28.0,
+            "description": "El Santuario tiene cuatro ciénagas costeras que cubren 7.682 hectáreas, son altamente productivas y ofrecen condiciones óptimas para la vida silvestre de la región.",
+            "coordinates": {
+                "lat": 11.371367433952493,
+                "lng": -73.12073773364577
+            }
+        },
+        {
+            "name": "Parque Nacional Natural Macuira",
+            "urlImage": "https://blog.redbus.co/wp-content/uploads/2020/06/macuira-national-park-1280x720-1.jpg",
+            "information": "La característica más llamativa es la presencia del bosque enano nublado perennifolio, de apariencia muy similar a los bosques andinos situados cerca de la línea de páramo (alturas superiores a los 2700 msnm), pero ubicado a solo 550 msnm. A escasos cinco kilómetros de un área semidesértica, se encuentra este bosque que presenta una alta humedad y una vegetación exuberante con abundancia de epífitas. También es relevante la presencia en el Parque de miembros de la etnia Wayú",
+            "location": "Departamento de la Guajira, municipio de Uribia en la Región Caribe colombiana al norte del país",
+            "temperature": 27.0,
+            "description": "En el área del Parque se encuentran bosque seco tropical, selvas y bosques montañosos, entre los que sobresale el bosque enano nublado, considerado una rareza ambiental en Colombia.",
+            "coordinates": {
+                "lat": 12.173434992079555,
+                "lng": -71.33502824634033
+            }
+        },
+        {
+            "name": "Playa del Pilón de Azúcar",
+            "urlImage": "https://colombiapais.com/pagina-sol-y-playa/playas-mar-caribe/imagenes/guajira-pilon-de-azucar.jpg",
+            "information": "Pilon de Azukar se traduce como el pilón de azúcar (El Pilon de Azukar). Recibió este nombre por el cerro situado en la playa, cuya cima parece lejana pero a la que se puede llegar a pie en tan solo 15 minutos. Los conquistadores de esta altura podrán ver la estatua de la Virgen de Fátima, erigida aquí en 1938 por los cazadores de perlas españoles, así como una impresionante vista del Caribe.",
+            "location": "Departamento de la Guajira, municipio de Uribia",
+            "temperature": 28.0,
+            "description": "Esta playa es conocida por el cerro que lleva su mismo nombre, a cuya cima se puede llegar tras una corta caminata de unos 15 min por",
+            "coordinates": {
+                "lat": 12.234771514776453,
+                "lng": -72.14201099557056
+            }
+        },
+        {
+            "name": "Cabo de la Vela",
+            "urlImage": "https://chipviajero.com/wp-content/uploads/2018/01/Como-Llegar-al-Cabo-De-La-Vela-La-Guajira-Colombia-Chip-Viajero-4.jpg" ,
+            "information": "Este cabo, ubicado en la península de La Guajira, es un terreno desértico habitado en su mayor parte por el pueblo indígena wayú, que llama al lugar con el nombre de Jepirra, que en su cosmogonía es el espacio sagrado donde los espíritus de sus difuntos llegan para hacer su tránsito hacia 'lo desconocido'.",
+            "location": "Departamento de la Guajira, municipio de Uribia",
+            "temperature": 27.2,
+            "description": "Es un destino turístico. Entre sus principales atractivos están El Pilón de Azúcar, La Playa Dorada, El Ojo de Agua y las Rancherías Aledañas.  este lugar era casi inhabitado, pero debido a la proyección turística que ha tenido en los últimos años, a pocos metros del sitio, en la franja costera al sur, se han asentado chozas típicas para hospedaje y restaurantes para turistas. Este lugar es considerado un paraíso turístico en Colombia.",
+            "coordinates": {
+                "lat": 12.1967757148031,
+                "lng": -72.14625296328005
+            }
+        },
+        {
+            "name": "Punta Gallinas",
+            "urlImage": "https://expotur-eco.com/wp-content/uploads/2020/01/Mejor-%C3%A9poca-para-ir-a-Punta-Gallinas-en-la-Guajira.jpg" ,
+            "information": "Es el extremo más septentrional de la placa continental de América del Sur, ubicada al extremo norte de la península de La Guajira, en el departamento homónimo de la República de Colombia, sobre las aguas meridionales del mar Caribe. El cabo se encuentra en el municipio de Uribia a unos 150 kilómetros al noreste de Riohacha.",
+            "location": "Departamento de la Guajira, municipio de Uribia",
+            "temperature": 28.0,
+            "description": "Cerca a punta Gallinas se encuentra una comunidad de cerca 100 habitantes de la etnia Wayúu, unas de las pocas culturas suramericanas que conservan intactas sus tradiciones ancestrales. Es un impresionante escenario natural de mesetas, dunas y acantilados rocosos, que emergen del mar, abrazando a la bahía Hondita. Tiene una inmensa duna que alcanza 60 metros de altura que se alza como una muralla justo en la orilla del mar.",
+            "coordinates": {
+                "lat": 12.464984953881059,
+                "lng": -71.68444929454134
+            }
+        },
+        {
+            "name": "Comunidad Wayúu",
+            "urlImage": "https://blog.redbus.co/wp-content/uploads/2020/06/56329547.jpg",
+            "information": "El pueblo wayú es la etnia indígena más numerosa de Venezuela y de Colombia; representan cerca del 11 % de la población del estado Zulia y cerca del 45 % de la población del departamento de La Guajira.​ El 97 % de la población habla su idioma tradicional que es el wayú o wayuunaiki, el 32 % habla el español.",
+            "location": "Departamento de la Guajira, municipio de Uribia en la Región Caribe colombiana al norte del país",
+            "temperature": 27.0,
+            "description": "Con el permiso de la comunidad podrás participar en sus prácticas tradicionales, probar su comida y aprender su cultura, además de poder caminar por sus hermosos senderos y, si te gustó dormir bajo las estrellas, también podrás hacerlo aquí, pero eso sí, siempre se respetuoso/a, sigue sus reglas y pide permiso, no lo olvides.",
+            "coordinates": {
+                "lat": 11.180854924403064,
+                "lng": -72.51211139073
+            }
+        }
+    ]
+}
